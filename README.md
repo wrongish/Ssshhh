@@ -1,2 +1,2 @@
-# Ssshhh
-Sssssshhh, this is for us. The silent manifesto for the new digital design.
+# One minute of silence for digital design
+The manifesto of the new digital design
